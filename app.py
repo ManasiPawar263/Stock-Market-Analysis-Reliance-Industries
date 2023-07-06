@@ -80,7 +80,7 @@ X_test = np.array(X_test)
 y_test = np.array(y_test)
 
 # Streamlit app
-st.title('Stock Market Price Forecasting')
+st.title('Stock Market Price Forecasting :chart_with_upwards_trend:')
 st.write('Predicting stock prices using an LSTM model')
 
 # Slider to select the number of days to forecast
